@@ -1,0 +1,187 @@
+#EXTM3U
+#EXTINF:0,7Sydney
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224814/SYD1/master_high.m3u8
+#EXTINF:0,7Melbourne
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224813/MEL1/master_high.m3u8
+#EXTINF:0,7Brisbane
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224815/BRI1/master_high.m3u8
+#EXTINF:0,7Adelaide
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224816/ADE1/master_high.m3u8
+#EXTINF:0,7Perth
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224817/PER1/master_high.m3u8
+#EXTINF:0,7Gold Coast
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224862/GLD1/master_high.m3u8
+#EXTINF:0,9Sydney
+https://9nowch9livehls-i.akamaihd.net/hls/live/250964/sydney/master.m3u8
+#EXTINF:0,9Melbourne
+https://9nowch9livehls-i.akamaihd.net/hls/live/250962/melbourne/master.m3u8
+#EXTINF:0,9Brisbane
+https://9nowch9livehls-i.akamaihd.net/hls/live/250961/brisbane/master.m3u8
+#EXTINF:0,9Adelaide
+https://9nowch9livehls-i.akamaihd.net/hls/live/250960/adelaide/master.m3u8
+#EXTINF:0,9Perth
+https://9nowch9livehls-i.akamaihd.net/hls/live/250963/perth/master.m3u8
+#EXTINF:0,7TWO Sydney
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224827/SYD2/master_high.m3u8
+#EXTINF:0,7TWO Melbourne
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224826/MEL2/master_high.m3u8
+#EXTINF:0,7TWO Brisbane
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224828/BRI2/master_high.m3u8
+#EXTINF:0,7TWO Adelaide
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224829/ADE2/master_high.m3u8
+#EXTINF:0,7TWO Perth
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224830/PER2/master_high.m3u8
+#EXTINF:0,7mate Sydney
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224840/SYD3/master_high.m3u8
+#EXTINF:0,7mate Melbourne
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224839/MEL3/master_high.m3u8
+#EXTINF:0,7mate Brisbane
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224841/BRI3/master_high.m3u8
+#EXTINF:0,7Mate Adelaide
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224842/ADE3/master_high.m3u8
+#EXTINF:0,7Mate Perth
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224843/PER3/master_high.m3u8
+#EXTINF:0,7flix Sydney
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224857/SYD6/master_high.m3u8
+#EXTINF:0,7flix Melbourne
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224856/MEL6/master_high.m3u8
+#EXTINF:0,7flix Brisbane
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224858/BRI6/master_high.m3u8
+#EXTINF:0,7flix Adelaide
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224859/ADE6/master_high.m3u8
+#EXTINF:0,7flix Perth
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224860/PER6/master_high.m3u8
+#EXTINF:0,TEN Sydney
+http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SDTEN.m3u8
+#EXTINF:0,TEN Melbourne
+http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SDATV.m3u8
+#EXTINF:0,TEN Brisbane
+http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SDTVQ.m3u8
+#EXTINF:0,TEN Adelaide
+http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SDADS.m3u8
+#EXTINF:0,TEN Perth
+http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SDNEW.m3u8
+#EXTINF:0,SBS
+http://sbslivefvstreaming.sbs.com.au/out/u/sbs1-mo-000-c3093-delpkg1-delpkg1-abr/index-root-ipad.m3u8
+#EXTINF:0,SBS VICELAND
+http://sbslivefvstreaming.sbs.com.au/out/u/sbs2-mo-000-c3093-delpkg1-delpkg1-abr/index-root-ipad.m3u8
+#EXTINF:0,Food Network
+http://sbslivefvstreaming.sbs.com.au/out/u/fdnet-mo-000-c3094-delpkg1-delpkg1-abr/index-root-ipad.m3u8
+#EXTINF:0,NITV
+http://sbslivefvstreaming.sbs.com.au/out/u/nitv-mo-000-c3094-delpkg1-delpkg1-abr/index-root-ipad.m3u8
+#EXTINF:0,7Cairns
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224818/CNS1/master_high.m3u8
+#EXTINF:0,7Mackay
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224820/MKY1/master_high.m3u8
+#EXTINF:0,7Rockhampton
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224821/RKY1/master_high.m3u8
+#EXTINF:0,7Sunshine Coast
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224823/SSC1/master_high.m3u8
+#EXTINF:0,7Toowoomba 
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224824/TWB1/master_high.m3u8
+#EXTINF:0,7Townsville
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224819/TSV1/master_high.m3u8
+#EXTINF:0,7Widebay
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224822/WBY1/master_high.m3u8
+#EXTINF:0,7TWO Cairns
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224831/CNS2/master_high.m3u8
+#EXTINF:0,7TWO Mackay
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224833/MKY2/master_high.m3u8
+#EXTINF:0,7TWO Rockhampton
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224834/RKY2/master_high.m3u8
+#EXTINF:0,7TWO Sunshine Coast
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224836/SSC2/master_high.m3u8
+#EXTINF:0,7TWO Toowoomba 
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224837/TWB2/master_high.m3u8
+#EXTINF:0,7TWO Townsville
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224832/TSV2/master_high.m3u8
+#EXTINF:0,7TWO Widebay
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224835/WBY2/master_high.m3u8
+#EXTINF:0,7mate Cairns
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224844/CNS3/master_high.m3u8
+#EXTINF:0,7mate Mackay
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224846/MKY3/master_high.m3u8
+#EXTINF:0,7mate Rockhampton
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224847/RKY3/master_high.m3u8
+#EXTINF:0,7mate Sunshine Coast
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224849/SSC3/master_high.m3u8
+#EXTINF:0,7mate Toowoomba
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224850/TWB3/master_high.m3u8
+#EXTINF:0,7mate Townsville
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224845/TSV3/master_high.m3u8
+#EXTINF:0,7mate Widebay
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224848/WBY3/master_high.m3u8
+#EXTINF:0,7flix Regional Queensland
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224861/QLD6/master_high.m3u8
+#EXTINF:0,9Gem Sydney
+https://9nowgemlivehls-i.akamaihd.net/hls/live/250974/sydney/master.m3u8
+#EXTINF:0,9Gem Melbourne
+https://9nowgemlivehls-i.akamaihd.net/hls/live/250972/melbourne/master.m3u8
+#EXTINF:0,9Gem Brisbane
+https://9nowgemlivehls-i.akamaihd.net/hls/live/250971/brisbane/master.m3u8
+#EXTINF:0,9Gem Adelaide
+https://9nowgemlivehls-i.akamaihd.net/hls/live/250970/adelaide/master.m3u8
+#EXTINF:0,9Gem Perth
+https://9nowgemlivehls-i.akamaihd.net/hls/live/250973/perth/master.m3u8
+#EXTINF:0,9Go! Sydney
+https://9nowgolivehls-i.akamaihd.net/hls/live/250987/sydney/master.m3u8
+#EXTINF:0,9Go! Melbourne
+https://9nowgolivehls-i.akamaihd.net/hls/live/250977/melbourne/master.m3u8
+#EXTINF:0,9Go! Brisbane
+https://9nowgolivehls-i.akamaihd.net/hls/live/250976/brisbane/master.m3u8
+#EXTINF:0,9Go! Adelaide
+https://9nowgolivehls-i.akamaihd.net/hls/live/250975/adelaide/master.m3u8
+#EXTINF:0,9Go! Perth
+https://9nowgolivehls-i.akamaihd.net/hls/live/250978/perth/master.m3u8
+#EXTINF:0,9Life Sydney
+https://9nowlifelivehls-i.akamaihd.net/hls/live/250994/sydney/master.m3u8
+#EXTINF:0,9Life Melbourne
+https://9nowlifelivehls-i.akamaihd.net/hls/live/250992/melbourne/master.m3u8
+#EXTINF:0,9Life Brisbane
+https://9nowlifelivehls-i.akamaihd.net/hls/live/250991/brisbane/master.m3u8
+#EXTINF:0,9Life Adelaide
+https://9nowlifelivehls-i.akamaihd.net/hls/live/250990/adelaide/master.m3u8
+#EXTINF:0,9Life Perth
+https://9nowlifelivehls-i.akamaihd.net/hls/live/250993/perth/master.m3u8
+#EXTINF:0,Channel 31 Melbourne
+http://c31.mediafoundry.com.au/sites/default/files/manifest/manifest_live_27.m3u8
+#EXTINF:0,Channel 44 Adelaide
+http://manifester.mediafoundry.com.au/master/t/c44adelaide_1/manifest.m3u8
+#EXTINF:0,RACING.COM
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224825/MISC1/master_high.m3u8
+#EXTINF:0,ABC News 24
+http://iphonestreaming.abc.net.au/news24/news24.m3u8
+#EXTINF:0,Fox Sports News
+http://foxsportshlsg01-lh.akamaihd.net/i/fsnewshls_0@301672/index_4628_av-p.m3u8
+#EXTINF:0,Rod Laver Arena
+https://streams.masx.io/1/tennis1/red_master_6000.m3u8
+#EXTINF:0,Margaret Court Arena
+https://streams.masx.io/1/tennis2/red_master_6000.m3u8
+#EXTINF:0,Hisense Arena
+https://streams.masx.io/1/tennis3/red_master_6000.m3u8
+#EXTINF:0,Show Court 2
+https://streams.masx.io/1/tennis4/red_master_6000.m3u8
+#EXTINF:0,Show Court 3
+https://streams.masx.io/1/tennis5/red_master_6000.m3u8
+#EXTINF:0,Court 5
+https://streams.masx.io/1/tennis6/red_master_6000.m3u8
+#EXTINF:0,Court 7
+https://streams.masx.io/2/tennis7/gr...ster_6000.m3u8
+#EXTINF:0,Court 8
+https://streams.masx.io/2/tennis8/gr...ster_6000.m3u8
+#EXTINF:0,Court 10
+https://streams.masx.io/2/tennis9/gr...ster_6000.m3u8
+#EXTINF:0,Court 12
+https://streams.masx.io/2/tennis10/g...ster_6000.m3u8
+#EXTINF:0,Court 13
+https://streams.masx.io/2/tennis11/g...ster_6000.m3u8
+#EXTINF:0,Court 14
+https://streams.masx.io/2/tennis12/g...ster_6000.m3u8
+#EXTINF:0,Court 15
+https://streams.masx.io/3/tennis13/b...ster_6000.m3u8
+#EXTINF:0,Court 19
+https://streams.masx.io/3/tennis14/b...ster_6000.m3u8
+#EXTINF:0,Court 20
+https://streams.masx.io/3/tennis15/b...ster_6000.m3u8
+#EXTINF:0,Court 22
+https://streams.masx.io/3/tennis16/b...ster_6000.m3u8
